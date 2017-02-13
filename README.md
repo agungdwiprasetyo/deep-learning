@@ -72,3 +72,9 @@ Struktur data yang digunakan dalam Keras yaitu berupa model. Model yang sering d
 from keras.models import Sequential
 model = Sequential()
 ```
+- Run program pada ``` keras/glass.py ```
+![start](https://github.com/agungdwiprasetyo/deep-learning/raw/master/pic/run.png)
+
+
+- Hasil (termasuk akurasi dengan epochs sebanyak 150)
+![hasil](https://github.com/agungdwiprasetyo/deep-learning/raw/master/pic/result.png)
